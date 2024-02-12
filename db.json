@@ -1,0 +1,34 @@
+{
+    "proveedores": [
+        {
+            "id": 1,
+            "name": "Banco Internacional X",
+            "price": 17.5610
+        },
+        {
+            "id": 2,
+            "name": "Banco Regional Y",
+            "price": 17.5400
+        },
+        {
+            "id": 3,
+            "name": "Institucion Z",
+            "price": 17.5580
+        },
+        {
+            "id": 4,
+            "name": "Fintech A",
+            "price": 17.5581
+        },
+        {
+            "id": 5,
+            "name": "Banco Mexicano B",
+            "price": 17.5589
+        },
+        {
+            "id": 6,
+            "name": "Banco Usa C",
+            "price": 17.5590
+        }
+    ]
+}
